@@ -1,9 +1,4 @@
-# Hangman
-
-Hangman is a game about guessing a word within a certain number of guesses.
-I wrote this project in ruby and it runs in the command line.
-
-This file also has the ability to save the game at any point and open an old game before you start playing.
-Also every game it generates a new word from the 'google-10000-english-no-swears.txt' file provided by the Odin Project
-
-This is for the Odin Projects Hangman project.
+This is command line hangman that gets a random word that contains between 5 and 12 letters from from the google-10000-english-no-swears.txt file.
+You then have normal hangamn where you have to guess the word however at any point you can save the game.
+You can then reaopen the game by typing in the file name.
+The code is pretty self-explanitory if you dont understand what im saying.
